@@ -1,4 +1,4 @@
-# © @ll_ALPHA_BABY_lll
+# © @III_MAA7NAV_III
 RAID = [
     "𝗠𝗔̂𝗔̂𝗗𝗔𝗥𝗖𝗛Ø𝗗 𝗧𝗘𝗥𝗜 𝗠𝗔́𝗔̀ 𝗞𝗜 𝗖𝗛𝗨𝗨́𝗧 𝗠𝗘 𝗚𝗛𝗨𝗧𝗞𝗔 𝗞𝗛𝗔𝗔𝗞𝗘 𝗧𝗛𝗢𝗢𝗞 𝗗𝗨𝗡𝗚𝗔 🤣🤣",
     "𝗧𝗘𝗥𝗘 𝗕𝗘́𝗛𝗘𝗡 𝗞 𝗖𝗛𝗨𝗨́𝗧 𝗠𝗘 𝗖𝗛𝗔𝗞𝗨 𝗗𝗔𝗔𝗟 𝗞𝗔𝗥 𝗖𝗛𝗨𝗨́𝗧 𝗞𝗔 𝗞𝗛𝗢𝗢𝗡 𝗞𝗔𝗥 𝗗𝗨𝗚𝗔",
@@ -130,7 +130,7 @@ REPLYRAID = [
     "LAAAWEEE KE BAAAAAL",
     "MAAAAR KI JHAAAAT KE BBBBBAAAAALLLLL",
     "MADRCHOD..",
-    "TERI MA KI CHUT..",
+    "TERI MA KI CHUT ME MAANAV KA LUND..",
     "LWDE KE BAAALLL.",
     "MACHAR KI JHAAT KE BAAALLLL",
     "TERI MA KI CHUT M DU TAPA TAP?",
